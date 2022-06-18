@@ -1,3 +1,3 @@
-# Курс Java от GekkBrains.
+# Курс Java от GeekBrains.
 ## Уровень 1.
 ### Лекция 1. Введение.
